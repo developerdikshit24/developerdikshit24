@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Dikshit Tibole, a passionate third-year undergraduate student at RTMNU University in Nagpur, Maharashtra. Currently, I am diving deep into the world of web development, focusing on the MEARN stack, which includes MongoDB, Express.js, React, and Node.js. My journey also encompasses mastering Data Structures and Algorithms (DSA) using Python, which has significantly enhanced my problem-solving skills.
+Hello! I’m Dikshit Tibole, a passionate first-year post-graduate student at SPPU University in Pune, Maharashtra. Currently, I am diving deep into the world of web development, focusing on the MEARN stack, which includes MongoDB, Express.js, React, and Node.js. My journey also encompasses mastering Data Structures and Algorithms (DSA) using Python, which has significantly enhanced my problem-solving skills.
 
 
 ## 🌐 Socials:
